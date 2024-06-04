@@ -1,4 +1,4 @@
-# Run Open Source AI Models from Hugging Face
+# Running Open Source AI Models from Hugging Face
 
 This notebook shows you how to use one of the thousands of open source AI models hosted on [Hugging Face](https://hf.co). Use these examples to quickly test the behavior of the different models and validate your ideas.
 
